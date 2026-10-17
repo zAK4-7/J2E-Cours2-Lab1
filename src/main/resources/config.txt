@@ -1,0 +1,3 @@
+# Fully qualified class names (1 per line): DAO first, then Metier
+dao.DaoImpl
+metier.MetierImpl
